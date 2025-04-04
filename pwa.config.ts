@@ -4,7 +4,7 @@ export default {
   id: '/',
   name: 'TeraBox Fast',
   shortName: 'TeraBoxFast',
-  description: 'My blog description goes here...',
+  description: 'Fast Watch and Download Online, No Login Required!',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -39,5 +39,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.teraboxfast.com',
 } satisfies Config;
