@@ -2,8 +2,8 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
+  name: 'TeraBox Fast',
+  shortName: 'TeraBoxFast',
   description: 'My blog description goes here...',
   direction: 'auto',
   language: 'en-US',
