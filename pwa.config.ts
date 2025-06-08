@@ -2,9 +2,9 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Terabox Fast',
+  shortName: 'TeraboxFast',
+  description: 'Watch Terabox videos online, download with ease, and explore smart AI tools — all in one place.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
